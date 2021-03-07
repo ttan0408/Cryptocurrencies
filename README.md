@@ -9,7 +9,7 @@ The data set we have is raw data with numperous of missing, and unusable values.
 Clean_DataFrame_for_Cluster_Analysis  : 
  ![alt text][Image1]
   
- [Image1]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "Clean_DataFrame_for_Cluster_Analysis"
+ [Image1]: https://github.com/ttan0408/Cryptocurrencies/blob/main/DataFrame_Clustering_Algorithm.PNG "Clean_DataFrame_for_Cluster_Analysis"
 
 ## Reducing Data Dimensions Using PCA
 We have to transform data into a smaller dimension in order to speed up machine learning algorithms. Principle Component Analysis is a statistical technique that we will use in this step. PCA reduces the number of dimensions by transforming a large set of variables into a smaller one that contains most of the information in the original large set. The new dataframe after dimension reduction is shown below :
