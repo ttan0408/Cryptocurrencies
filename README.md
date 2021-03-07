@@ -33,5 +33,9 @@ Finally, we visualize the plot between TotalCoinSupply "Y", vs. TotalCoinsMined 
 Plot_TotalCoinSupply_TotalCoinsMined  : 
  ![alt text][Image4]
   
- [Image4]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "Plot_TotalCoinSupply_TotalCoinsMined"
+ [Image4]: https://github.com/ttan0408/Cryptocurrencies/blob/main/Plot.PNG "Plot_TotalCoinSupply_TotalCoinsMined"
+ 
+ Project File Link is located below :
+ 
+ 
 
