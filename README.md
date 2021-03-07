@@ -25,7 +25,7 @@ K-means is an unsupervised learning algorithm used to identify and solve cluster
 DataFrame_for_Predict_Future_Currency  : 
  ![alt text][Image3]
   
- [Image3]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "DataFrame_for_Predict_Future_Currency"
+ [Image3]: https://github.com/ttan0408/Cryptocurrencies/blob/main/DataFrame_Predict_Future_Currency.PNG "DataFrame_for_Predict_Future_Currency"
 
 ## Visualizing Cryptocurrencies Results
 Finally, we visualize the plot between TotalCoinSupply "Y", vs. TotalCoinsMined "X". The plot is shown below :
