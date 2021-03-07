@@ -17,7 +17,7 @@ We have to transform data into a smaller dimension in order to speed up machine 
 DataFrame_for_Principle_Components  : 
  ![alt text][Image2]
   
- [Image2]: https://github.com/ttan0408/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.PNG "DataFrame_for_Principle_Components"
+ [Image2]: https://github.com/ttan0408/Cryptocurrencies/blob/main/DataFrame_Principle_Components.PNG "DataFrame_for_Principle_Components"
 
 ## Clustering Cryptocurrencies Using K-means
 K-means is an unsupervised learning algorithm used to identify and solve clustering issues. Firts we calculate the inertia for the range of K values then we create the elbow curve to determine how many clusters we like to use in K-Means model. The elbow curve show K = 4 is where the slope change significant which means we will have 4 cluster for K-Means model. The new DataFrame including predicted clusters and cryptocurrencies features are shown below :
